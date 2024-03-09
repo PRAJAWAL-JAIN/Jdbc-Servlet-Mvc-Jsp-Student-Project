@@ -42,7 +42,7 @@
 				</a></li>
 				<li class="nav-item active"><a class="nav-link" href="#">ContactUs
 				</a></li>
-			</ul>
+			</ul> 
 			<a href="stdLogin.jsp" class="btn btn-outline-success">AdminLogin</a>
 		</div>
 	</nav>
